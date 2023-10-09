@@ -2,7 +2,7 @@ import Image from 'next/image'
 import Link from 'next/link'
 import React from 'react'
 import Menu from './Menu';
-import CartIcon from './Carticon';
+import CartIcon from './CartIcon';
 
 const Navbar = () => {
   
